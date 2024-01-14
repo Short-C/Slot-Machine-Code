@@ -1,8 +1,3 @@
-// AP Computer Science Java
-// Josh Finkel
-// project 3
-// Nevin LaBrusciano
-
 import java.util.Scanner;
 
 public class project_3
